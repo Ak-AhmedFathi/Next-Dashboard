@@ -24,17 +24,17 @@ const SingleTeacherPage = () => {
                         </div>
                         <div className="w-2/3 flex flex-col justify-between gap-4">
                             <div className="flex items-center gap-4">
-                                <h1 className="text-xl font-semibold">Abdullah Khaled</h1>
+                                <h1 className="text-xl font-semibold">John Doe</h1>
                                 <FormModal
                                     table="teacher"
                                     type="update"
                                     data={{
                                         id: 1,
-                                        username: "asdfinakf",
-                                        email: "jasbdkmgmail.com",
+                                        username: "John",
+                                        email: "john@gmail.com",
                                         password: "Password",
-                                        firstName: "Dean",
-                                        lastName: "Guerroer",
+                                        firstName: "John",
+                                        lastName: "Doe",
                                         phone: "+1 234 567 89",
                                         address: "1234 Main St, Anytown, USA",
                                         bloodType: "A+",
