@@ -2,7 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-
+html {
+    scroll-behavior: smooth;
+}
 .react-calendar {
     width: 100% !important;
     border: none !important;
