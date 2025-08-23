@@ -21,8 +21,6 @@ const forms: {
 }
 
 
-
-
 const FormModal = ({ table, type, data, id }: {
     table:
     | "teacher"
