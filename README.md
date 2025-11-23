@@ -85,9 +85,9 @@ Check it live: [Next Dashboard](https://next-dashboard-indol-tau-49.vercel.app)
 ---
 
 ## 💌 Contact
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- Portfolio: [Your Portfolio](https://your-portfolio.com)
-- Email: your.email@example.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ahmed-fathi-in/  
+- 🌐 **Portfolio:** https://ahmedfathi.com  
+- 📧 **Email:** info@ahmedfathi.com
 
 ---
 
