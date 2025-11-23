@@ -101,4 +101,5 @@ Check it live: [Next Dashboard](https://next-dashboard-indol-tau-49.vercel.app)
 ---
 
 ## 📄 License
-This project is licensed under the **MIT License**.
+
+This project is licensed under the **MIT License** — feel free to use, modify, and share.
